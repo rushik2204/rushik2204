@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Kulkarni</h1>
 <h3 align="center">Data Science | Machine Learning | Deep Learning</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 Currently exploring **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **rushikeshk2210@gmail.com**
 
