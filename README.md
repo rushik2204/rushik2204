@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **rushikeshkul2204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lzXbXfza2OM_Jo6LBVKXo3ferJ6X6Szf/view?usp=drive_link](https://drive.google.com/file/d/1lzXbXfza2OM_Jo6LBVKXo3ferJ6X6Szf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
