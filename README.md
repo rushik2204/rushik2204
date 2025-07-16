@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Kulkarni</h1>
-<h3 align="center">MAchine Learning | Web Dev | DSA </h3>
+<h3 align="center">Machine Learning | Web Dev | DSA </h3>
 
 - 🌱 Currently exploring **Machine Learning, Deep Learning**
 
