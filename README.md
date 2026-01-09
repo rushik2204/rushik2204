@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Kulkarni</h1>
 <h3 align="center">Machine Learning | Web Dev | DSA </h3>
 
-- 🌱 Currently exploring **Machine Learning, Deep Learning**
+- 🌱 Currently exploring **LangChain, WordPress, PHP**
 
 - 📫 How to reach me **rushikeshkul2204@gmail.com**
 
